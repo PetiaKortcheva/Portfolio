@@ -4,6 +4,10 @@ h1 {
 }
 
 h4 {
-  color: red;
+  color: grey;
 }
 
+span.Epicodus{
+  color: red;
+  fint-style: italic;
+}
