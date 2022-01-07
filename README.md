@@ -19,7 +19,7 @@ Copy URL link and open in your browser
 
 Known Bugs
 
-Not known bugs.
+Title does not show.
 
 License
 
