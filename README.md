@@ -11,7 +11,7 @@ Learnhowtoprogram.com
 Description
 
 This website presents my Portfolio at Epicodus. Simply click on the URL link and it will open my website.
-https://github.com/PetiaKortcheva/Portfolio
+file:///Users/danielstanchev/Desktop/Portfolio/index.html
 
 Set up/Installation Requirements
 
